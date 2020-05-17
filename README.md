@@ -19,7 +19,7 @@ After installing Python and the necessary modules above, follow the instructions
 * Wait for the code to generate fake info.
 * You will be asked to resolve the Captcha. Resolve it then press "y" then enter.
 * Wait for the data to be saved.
-* You will need to wait 7-10 for the application to be accepted by the college.
+* You will need to wait 7-10 days for the application to be accepted by the college.
 * Congratulations. Your .Edu email is ready to use. Log in to [Gmail](https://mail.google.com/) and change your password.
 
 
