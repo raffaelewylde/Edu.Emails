@@ -13,7 +13,7 @@ from pages.useful_functions import new_tab, switch_to
 class AccountDetail:
 
     def __init__(self):
-        self.path = 'driver/chromedriver.exe'
+        self.path = 'driver/chromedriver'
         self.driver = webdriver.Chrome(executable_path=self.path)
         self._firstname = None
         self._fatherName = None

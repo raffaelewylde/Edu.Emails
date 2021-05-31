@@ -15,7 +15,7 @@ from pages.useful_functions import clear_text_box, username_generator, password_
 class Costa:
 
     def __init__(self, info, email):
-        self.path = 'driver/chromedriver.exe'
+        self.path = 'driver/chromedriver'
         self.driver = webdriver.Chrome(executable_path=self.path)
         self.baseURL = 'http://www.orangecoastcollege.edu/Pages/home.aspx'
         self.driver.get(self.baseURL)
